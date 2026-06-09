@@ -1,2 +1,2 @@
-# PythonPtoject
-this is my first python project
+# PythonTutorial
+this is my first python Tutorial
